@@ -11,5 +11,5 @@ write jia
 <<<<<<< HEAD
 writing to jia
 =======
-write yfk
+writing yfk
 >>>>>>> featurn1
