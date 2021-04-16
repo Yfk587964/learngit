@@ -13,4 +13,8 @@ Creatint a new branch is quick and simple.
 
 write here1234567890000000
 
+<<<<<<< HEAD
 write hello world.
+=======
+write yfk yfk
+>>>>>>> 136f143 (fix bug 101)
