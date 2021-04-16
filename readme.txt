@@ -8,4 +8,8 @@ Creating a new branch is quick.
 
 write jia
 
-write to jia
+<<<<<<< HEAD
+writing to jia
+=======
+write yfk
+>>>>>>> featurn1
