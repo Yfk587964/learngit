@@ -10,3 +10,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simmple.
 >>>>>>> feature1
 Creatint a new branch is quick and simple.
+
+write here
